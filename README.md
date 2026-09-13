@@ -1,6 +1,6 @@
 # Task Tracker Infra — Terraform (AWS)
 
-Infrastructure as Code for the [Task Tracker API](https://github.com/<your-username>/task-tracker-api) project. This repo provisions the AWS EC2 instance and security group that host the API — no manual console clicks, no undocumented server setup.
+Infrastructure as Code for the [Task Tracker API](https://github.com/divsh54321/task-tracker-api) project. This repo provisions the AWS EC2 instance and security group that host the API — no manual console clicks, no undocumented server setup.
 
 This was built as Project 2 in a hands-on DevOps learning track, immediately after manually provisioning the same setup by hand in Project 1. The goal: replace "I clicked through the console and hope I remember what I did" with a reproducible, version-controlled definition of the infrastructure.
 
